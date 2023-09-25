@@ -1,0 +1,25 @@
+        body {
+        background-image: url('download (2).jpeg');
+        background-size: cover;
+        background-position: center;
+        display: flex;
+        justify-content: align;
+        
+        }
+        
+        table {
+          font-family: 'Times New Roman', Times, serif;
+          border-collapse: collapse;
+          width: 100%;
+        }
+        
+        td, th, h2 {
+          border: 1px solid #dddddd;
+          text-align: left;
+          padding: 8px;
+          color: orange;
+        }
+        
+        tr:nth-child(even) {
+          background-color: #dddddd;
+        }
